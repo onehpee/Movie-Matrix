@@ -1,0 +1,34 @@
+
+*** No. of rows (movies) in matrix =  1682
+*** No. of columns (reviewers) = 943
+
+Movie:  xyz  Movie number must be numeric
+
+Movie:   -3  Movie number must be between 1 and 1682
+
+Movie:    1  Toy Story (1995)
+  #        R     No.     Reviews        Name
+  1.  1.000000     1 ( 452 reviews)  Toy Story (1995)
+  2.  0.761165   786 (  11 reviews)  Perez Family, The (1995)
+  3.  0.753673   426 (  28 reviews)  Transformers: The Movie, The (1986)
+  4.  0.736826   539 (  23 reviews)  Mouse Hunt (1997)
+  5.  0.712301   115 (  13 reviews)  Haunted World of Edward D. Wood Jr., The (1995)
+  6.  0.681280   557 (  11 reviews)  Farinelli: il castrato (1994)
+  7.  0.679864   828 (  10 reviews)  Alaska (1996)
+  8.  0.672918   921 (  26 reviews)  Farewell My Concubine (1993)
+  9.  0.670896  1277 (  14 reviews)  Set It Off (1996)
+ 10.  0.668410   645 (  16 reviews)  Paris Is Burning (1990)
+ 11.  0.663215   138 (  16 reviews)  D3: The Mighty Ducks (1996)
+ 12.  0.654585   350 (  11 reviews)  Fallen (1998)
+ 13.  0.651857   330 (  18 reviews)  187 (1997)
+ 14.  0.641535   923 (  27 reviews)  Raise the Red Lantern (1991)
+ 15.  0.623460   819 (  37 reviews)  Eddie (1996)
+ 16.  0.620767  1051 (  32 reviews)  Associate, The (1996)
+ 17.  0.620174  1037 (  16 reviews)  Grease 2 (1982)
+ 18.  0.619995  1199 (  19 reviews)  Cemetery Man (Dellamorte Dellamore) (1994)
+ 19.  0.618509   613 (  19 reviews)  My Man Godfrey (1936)
+ 20.  0.612372   905 (  10 reviews)  Great Expectations (1998)
+
+Movie: 1682  Scream of Stone (Schrei aus Stein) (1991)
+  #        R     No.     Reviews        Name
+  Insufficient comparison movies
